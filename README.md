@@ -218,7 +218,7 @@ npx cypress run --browser chrome
 
 ## 📁 Estructura del proyecto
 ```
-ginprosa-testing/
+pruebas-software/
 │
 ├── Katalon/                             # Proyecto de Katalon Studio
 │   ├── Test Suites/                     # Test Suites organizados por funcionalidad
@@ -258,8 +258,6 @@ ginprosa-testing/
 │
 ├── .gitignore                           # Archivos ignorados por Git
 └── README.md                            # Este archivo
-Estructura visual de Test Suites (Katalon):
-Mostrar imagen
 
 👥 Autores
 
