@@ -277,3 +277,16 @@ Para preguntas o problemas relacionados con este proyecto:
 
 Crear un issue en GitHub
 Contactar a los autores a través de la plataforma académica
+
+---
+
+## Cypress (rama `cypress-geral`)
+
+**Ubicación del proyecto:** `proyecto-testing/cypress`  
+**Base de pruebas:** `https://www.ginprosacol.com.co/preliminar/mockup`
+
+### Instalar y abrir
+```bash
+cd proyecto-testing
+npm ci         # o: npm install
+npx cypress open
