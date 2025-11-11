@@ -1,0 +1,23 @@
+{
+  "name": "proyectos",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "cypress": "^15.6.0",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:chrome": "cypress run --browser chrome",
+    "cy:firefox": "cypress run --browser firefox",
+    "cy:edge": "cypress run --browser edge"
+  }
+}

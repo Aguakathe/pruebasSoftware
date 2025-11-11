@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": ["es2020", "dom"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "types": ["cypress", "node"],
+    "noEmit": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["cypress/**/*.ts"],
+  "exclude": [
+    "node_modules",
+    "cypress/e2e/1-getting-started/**",
+    "cypress/e2e/2-advanced-examples/**"
+  ]
+}
