@@ -278,7 +278,6 @@ Para preguntas o problemas relacionados con este proyecto:
 Crear un issue en GitHub
 Contactar a los autores a través de la plataforma académica
 
----
 
 ## Cypress (rama `cypress-geral`)
 
